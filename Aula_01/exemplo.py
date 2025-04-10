@@ -1,1 +1,1 @@
-Print("haruka mirai")
+print("haruka mirai")
